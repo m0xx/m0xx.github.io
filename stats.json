@@ -17,8 +17,8 @@
       "component---src-layouts-index-js-a054a205a8b56cb58090.js.map"
     ],
     "path---index": [
-      "path---index-73025992206a8e48fb56.js",
-      "path---index-73025992206a8e48fb56.js.map"
+      "path---index-774981bc90042460ad72.js",
+      "path---index-774981bc90042460ad72.js.map"
     ],
     "commons": [
       "commons-d41d8cd98f00b204e980.js",
@@ -31,9 +31,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-bf7264e9b88b201d71bf.js",
+      "app-d790a827b029be8e6b53.js",
       "build-js-styles.css",
-      "app-bf7264e9b88b201d71bf.js.map",
+      "app-d790a827b029be8e6b53.js.map",
       "build-js-styles.css.map"
     ]
   }
