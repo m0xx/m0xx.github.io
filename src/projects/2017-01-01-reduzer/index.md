@@ -4,7 +4,7 @@ date: "2017-01-01T00:00:00.000Z"
 website: http://reduzer.maxm.ca
 when: 2017
 screenshot: images/screenshot-reduzer.png
-tags: NodeJS, Docker, React, Redux, Redux-sagas, MongoDB
+tags: NodeJS, Docker, React, Redux, Redux-saga, MongoDB
 ---
 
 L'idée de créer Reduzer m'est venu dernièrement. J'ai souvent à faire des conversions de données, comme par 
